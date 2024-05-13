@@ -1,0 +1,5 @@
+7af8391f-e460-4981-a175-d3bef322c862,Nederland,true
+54a45e52-beed-4501-8d31-dc53a3a4fc8d,Polen,true
+0f1af794-eccc-49f2-a9e3-a66315aad2d7,Ghana,false
+0585af4e-3c1b-4ca9-b520-b9e21885f1a7,Nederland,true
+2b16c7a6-2fda-471c-8a1c-ed95759e6deb,Tunisie,false
